@@ -51,7 +51,7 @@ You can deploy this bot anywhere.
 <p>Deploy To Heroku<P>
 <p>
 
-<a href="https://heroku.com/deploy?template=https://github.com/malik7983/file-filter-bot-new">
+<a href="https://heroku.com/deploy?template=https://github.com/malik7983/MDISK-Converter">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
