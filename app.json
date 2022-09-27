@@ -6,8 +6,8 @@
     "telegram",
     "shortener"
   ],
-  "website": "https://github.com/T2links/",
-  "repository": "https://github.com/malik7983/MDISK-Converter",
+  "website": "https://github.com/DeepSandhra/MDISK-Converter",
+  "repository": "https://github.com/DeepSandhra/MDISK-Converter",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token from @botfather",
